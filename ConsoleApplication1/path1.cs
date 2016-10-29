@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     public class Path1
     {
         public string Name { get; set; }
+        public string Surname { get; set; }
     }
 }
